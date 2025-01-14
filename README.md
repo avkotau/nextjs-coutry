@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+![Демонстрация работы](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjRtdTA0cGNyNG9tMnppMXYxYnc1cXRocGY4aGpoOHZ1bjhpMjBwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lh2U80dv8mvWFA0l3/giphy.gif)
+
 ## Getting Started
 
 First, run the development server:
